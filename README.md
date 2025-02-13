@@ -313,6 +313,7 @@ Berikut daftar Volunter yang diterima:
 * Muhammad Rizal Wibowo, [LinkedIn](https://www.linkedin.com/in/m-rizal-wibowo/).
 * Muhammad Rizky Maulana, [LinkedIn](https://www.linkedin.com/in/muhammad-rizky-maulana-198762170/).
 * Muhammad Syukron Abdillah,[GitHub](https://github.com/muhammadsyukron123)
+* Muhammad Teguh Alfian, [LinkedIn](https://www.linkedin.com/in/muhammad-teguh-alfian-05699a2a9/).
 * Muhammad Wildan, [GitHub](https://github.com/MuhWilldan).
 * Muhammad Zufar Syah, [GitHub](https://github.com/zufarsyah/).
 * Muhd Fikry Aulya, [GitHub](https://github.com/NastaRFEBE).
